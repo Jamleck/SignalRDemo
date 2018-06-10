@@ -1,2 +1,2 @@
-# SignalRDemo
-Simple ASP.Net Core SignalRDEMO
+# SignalR Demo
+ ASP.Net Core SignalR Demo
